@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "jolly-brook-f0c4",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "1f75521e-2a0f-42f7-a447-063e3052e66a",
+      "database_name": "jolly-brook-f0c4-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
